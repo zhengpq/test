@@ -1,7 +1,7 @@
 
   export interface IIconNames {
       "add-circle-dotlined": string;
-  "add-circle-outline": string;
+  "add-circle-outlined": string;
   "add-circle": string;
   "add-group": string;
   "add-person": string;
@@ -34,8 +34,8 @@
   "bulb": string;
   "button-outlined": string;
   "button": string;
+  "cake-outlined": string;
   "cake": string;
-  "cakeoutlined": string;
   "calculator-outlined": string;
   "calculator": string;
   "calendar-outlined": string;
@@ -109,7 +109,7 @@
   "histogram-outlined": string;
   "histogram-square": string;
   "histogram": string;
-  "iPhoneX-outlined": string;
+  "iPhone-outlined": string;
   "image-outlined": string;
   "image": string;
   "import": string;
@@ -239,8 +239,8 @@
   "view": string;
   "wallet-outlined": string;
   "wallet": string;
-  "warning-circle-outlined": string;
-  "warning-circle": string;
+  "warning-outlined": string;
+  "warning": string;
   "watch-outlined": string;
   "website-outlined": string;
   "website": string;
