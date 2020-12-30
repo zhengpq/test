@@ -246,6 +246,8 @@
   "watch-outlined": string;
   "website-outlined": string;
   "website": string;
+  "wish-outlined": string;
+  "wish": string;
   "zoom-in": string;
   "zoom-out": string;
   }
