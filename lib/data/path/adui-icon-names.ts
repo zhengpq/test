@@ -241,7 +241,7 @@
   "view": string;
   "wallet-outlined": string;
   "wallet": string;
-  "warning-outlined": string;
+  "warning-circle-outlined": string;
   "warning": string;
   "watch-outlined": string;
   "website-outlined": string;
