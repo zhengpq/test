@@ -135,6 +135,7 @@
   "makeup": string;
   "male": string;
   "map-outlined": string;
+  "material": string;
   "maternal-baby-outlined": string;
   "maternal-baby": string;
   "medical-outlined": string;
