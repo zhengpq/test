@@ -102,6 +102,7 @@
   "game": string;
   "gender": string;
   "happy": string;
+  "headline": string;
   "heart-outlined": string;
   "heart": string;
   "help-circle-outlined": string;
